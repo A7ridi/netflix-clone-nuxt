@@ -3,8 +3,8 @@
     <img src="~/assets/img/bg-dark.jpg" alt="" />
     <div class="text-container">
       <div class="text">
-        <span class="mini-heading">Now Streaming</span>
-        <h1><span>Now</span>Streaming</h1>
+        <span class="mini-heading">Netflix Clone</span>
+        <h1><span>Now</span> Streaming</h1>
         <a href="#movie-grid" class="button">View Movies</a>
       </div>
     </div>
@@ -58,7 +58,7 @@ export default {
       font-weight: 600;
       font-size: 18px;
       text-transform: uppercase;
-      color: #c92502;
+      color: rgba(77, 199, 247, 0.9);
       margin-bottom: 8px;
       @media (min-width: 750px) {
         font-size: 22px;
